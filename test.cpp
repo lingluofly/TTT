@@ -2,6 +2,6 @@
 
 int main(){
     std::cout << "Hello World!" << std::endl;
-    int a = 10;
+    int a = 30;
     return 0;
 }
